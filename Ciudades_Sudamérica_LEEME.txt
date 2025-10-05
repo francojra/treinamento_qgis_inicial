@@ -1,0 +1,4 @@
+CÓMO CITAR ESTA CAPA:
+"Ciudades de Sudamérica". Capa descargada de https://github.com/efrainmaps/shapefiles-es.git. 
+Carlos Efraín Porto Tapiquén. EfrainMaps. Valencia, España, 2025.
+Basado en capas de Enviromental Systems Research Institute (ESRI). Distribución Gratuita.

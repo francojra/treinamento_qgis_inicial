@@ -9,7 +9,8 @@
 - As principais ferramentas são as de gerenciar camadas (adição de camadas) e de navegação;
 - Ao mover o mouse, são apresentadas as coordenadas na barra abaixo. Na barra inferior também estão as escalas do mapa, a lupa/zoom, rotação e o EPSG que apresenta o sistema de referência de coordenadas;
 - Salvar projeto: na barra de menu aparece o nome "projeto sem título - QGIS", ao salvar o projeto indo em projeto -> salvar -> nome do projeto específico. Ao salvar o nome do projeto é alterado, após fechar o QGSI e abrir o projeto novamente, você é capaz de visualizar o trabalho de onde parou;
-- 
+- Ao fazer novos processamentos no projeto, clica em "Salvar".
+- Criar projeto: complementos -> gerenciar e instalar complementos -> na barra de busca clica em "Quickmap" -> QuickMapServices. O QuickMap services permite acessar dados de satélite de todo o mundo de diferentes bases de dados.
 
 Get the full scoop at [NaturalEarthData.com](http://naturalearthdata.com)
 

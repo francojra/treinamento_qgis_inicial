@@ -1,8 +1,10 @@
 # Interface do QGIS
 
-- Devemos ter uma base sobre a interface do QGIS entendendo sobre os menus e barra de ferramentas;
+- Devemos ter uma base sobre a interface do QGIS entendendo sobre as barras de menus e barras de ferramentas;
 - Barra de menus: barra fixa que fica em cima que vai desde projeto até ajuda, ela apresenta opções de edição, camadas para adicionar arquivos, imagens de satélite, mapas, etc;
 - Tipos de arquivos: vetoriais e raster (imagens ou matricial);
+- Complementos: incorporar novas ferramentas ao QGIS;
+- Barras de ferramentas: fica abaixo da barra de menus e pode ser deslocada para ficar à direita ou esquerda;
 - 
 
 Get the full scoop at [NaturalEarthData.com](http://naturalearthdata.com)

@@ -1,3 +1,10 @@
+# Interface do QGIS
+
+- Devemos ter uma base sobre a interface do QGIS entendendo sobre os menus e barra de ferramentas;
+- Barra de menus: barra fixa que fica em cima que vai desde projeto até ajuda, ela apresenta opções de edição, camadas para adicionar arquivos, imagens de satélite, mapas, etc;
+- Tipos de arquivos: vetoriais e raster (imagens ou matricial);
+- 
+
 Get the full scoop at [NaturalEarthData.com](http://naturalearthdata.com)
 
 _No, really! This readme is a poor substitute for the live site._
@@ -74,3 +81,5 @@ When we introduce a new version of Natural Earth, you can tell by the version nu
 Natural Earth is maintained by Nathaneiel V. KELSO ([@nvkelso](https://github.com/nvkelso/)) and Tom Patterson.
 
 The project transitioned to Github in 2012. Versioned files are here to collaborate around. The frontend still lives at [NaturalEarthData.com](http://naturalearthdata.com).
+
+

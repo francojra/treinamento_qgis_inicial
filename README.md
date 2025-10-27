@@ -5,7 +5,7 @@
 - Tipos de arquivos: vetoriais e raster (imagens ou matricial);
 - Complementos: incorporar novas ferramentas ao QGIS;
 - Barras de ferramentas: fica abaixo da barra de menus e pode ser deslocada para ficar à direita ou esquerda;
-- Ferramentas ocultas: clica com botão direito do mouse sobre a barra de ferramentas para selecionar outras funções, devemos habilitar a função de "gerenciar camadas";
+- Ferramentas ocultas: clica com botão direito do mouse sobre a barra de ferramentas para selecionar outras funções, devemos habilitar a função de "gerenciar camadas". Se habilitar todas as funções, a tela principal onde ficam os arquivos reduz, portanto, devemos habilitar apenas quando necessário;
 - 
 
 Get the full scoop at [NaturalEarthData.com](http://naturalearthdata.com)

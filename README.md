@@ -7,7 +7,7 @@
 - Barras de ferramentas: fica abaixo da barra de menus e pode ser deslocada para ficar à direita ou esquerda;
 - Ferramentas ocultas: clica com botão direito do mouse sobre a barra de ferramentas para selecionar outras funções, devemos habilitar a função de "gerenciar camadas". Se habilitar todas as funções, a tela principal branca onde ficam os arquivos reduz, portanto, devemos habilitar apenas quando necessário;
 - As principais ferramentas são as de gerenciar camadas (adição de camadas) e de navegação;
-- Ao mover o mouse, são apresentadas as coordenadas na barra abaixo. Na barra inferior também estão as escalas do mapa, a lupa/zoom e o EPSG que apresenta o sistema de referência geográfica;
+- Ao mover o mouse, são apresentadas as coordenadas na barra abaixo. Na barra inferior também estão as escalas do mapa, a lupa/zoom, rotação e o EPSG que apresenta o sistema de referência de coordenadas;
 - 
 
 Get the full scoop at [NaturalEarthData.com](http://naturalearthdata.com)
